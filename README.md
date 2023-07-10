@@ -20,7 +20,7 @@ Feel free to connect me on LinkedIn. You can also ask me anything.
 ⛓️ [https://www.linkedin.com/in/sarahkim-sk/]
 Email: kim.sarah0309@gmail.com
 
-<img height="65" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="55" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 
