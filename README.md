@@ -1,4 +1,4 @@
-## Hi I'm Sarah!
+## Hi, I'm Sarah!
 Thank you for visiting my GitHub profile, I'm so excited you are here!
 
 ## About Me:
@@ -17,8 +17,8 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 
 Feel free to connect me on LinkedIn. You can also ask me anything.
 
-⛓️ [https://www.linkedin.com/in/sarahkim-sk/]
-Email: kim.sarah0309@gmail.com
+⛓️ https://www.linkedin.com/in/sarahkim-sk/
+👯 kim.sarah0309@gmail.com
 
 <img height="55" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
